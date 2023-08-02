@@ -52,16 +52,29 @@ In this process, we prepare data so that it is easier to analyze. Some of the st
 The statistical summary function that is commonly used in data analysis is describe() in the pandas library. This function provides summary descriptive statistics for each numeric column in the DataFrame, including data count, mean, standard deviation, minimum value, quartile, and maximum value.
 
 ### B. Univariate Analysis
-- Distribution on the retail table
-- Distribution on the product table
+- Distribution on the retail table <br>
+![Distribution on the retail table](img/4.b.1.png)
+  
+- Distribution on the product table <br>
+![Distribution on the product table](img/4.b.2.png)
 
 ### C. Bivariate Analysis
-- Number of purchases by day
-- Number of transactions by day with loyalty program
-- Loyalty Program Distribution
-- Top 10 shop by number of users
-- Top 10 shop by number of users loyal
-- Number of purchases per customer
+- Number of purchases by day <br>
+  ![Number of purchases by day](img/4.c.1.png)
+  
+- Number of transactions by day with loyalty program <br>
+![Number of transactions by day](img/4.c.2.png)
+
+- Loyalty Program Distribution <br>
+![Loyalty Program Distribution](img/4.c.3.png)
+
+- Top 10 shop by number of users <br>
+![ Top 10 shop by number of users](img/4.c.4.png)
+
+- Top 10 shop by number of users loyal <br>
+![Top 10 shop by number of users loyal](img/4.c.5.png)
+
+- Number of purchases per customer <br>
 
   Number of Loyal Customers: 587 <br>
   Number of Non-Loyal Customers: 1163 <br>
@@ -79,11 +92,15 @@ The statistical summary function that is commonly used in data analysis is descr
   Frequency of Purchases for Non-Loyalty Program Customers: 80787
 
 ### D. Multivariate Analysis
-- Correlation
+- Correlation <br>
+![Correlation](img/4.d.1.png)
  
 ### E. Cohort Analysis
-- Retention by month
-- Retention loyalty program
+- Retention by month <br>
+![Retention by month](img/4.e.1.png)
+
+- Retention loyalty program <br>
+![etention loyalty program](img/4.e.2.png)
 
 ## 5. Hypothesis Test
 - Difference between the number of items between the loyalty member group and the non-loyalty member group
