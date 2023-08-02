@@ -119,9 +119,9 @@ The statistical summary function that is commonly used in data analysis is descr
 
 - Difference between the total sales between the loyalty member group and the non-loyalty member group
 
-  Uji Wilcoxon signed-rank test:
-  Statistik uji: 118846101.0
-  Nilai p: 1.230708467677431e-19
+  Uji Wilcoxon signed-rank test: <br>
+  Statistik uji: 118846101.0 <br>
+  Nilai p: 1.230708467677431e-19 <br>
   The null hypothesis is rejected. There is a significant difference between the total sales between the loyalty member group and the non-loyalty member group.
 
 ## 6. Conclusion
@@ -146,5 +146,5 @@ The statistical summary function that is commonly used in data analysis is descr
 - Member fees $ 20 per month, discount or other benefits need to be reviewed. This refers to purchases per loyal customer which are still smaller than non-loyal customers. Loyalty program customer retention also did not increase significantly compared to non-loyalty customer retention. If there is no improvement in the loyalty program benefits, it is likely that customers tend to choose transactions without a loyalty program.
 
 ## 7. Dashboard
-<br>
+Check dashboard : <br>
 ![dashboard](img/dashboard.png)
