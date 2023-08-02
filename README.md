@@ -144,3 +144,7 @@ The statistical summary function that is commonly used in data analysis is descr
 
 
 - Member fees $ 20 per month, discount or other benefits need to be reviewed. This refers to purchases per loyal customer which are still smaller than non-loyal customers. Loyalty program customer retention also did not increase significantly compared to non-loyalty customer retention. If there is no improvement in the loyalty program benefits, it is likely that customers tend to choose transactions without a loyalty program.
+
+## 7. Dashboard
+<br>
+![dashboard](img/dashboard.png)
