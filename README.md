@@ -1,4 +1,4 @@
-# Retail - Loyalty Program Analysis
+# Loyalty Program Analysis in Retail Store
 Project portfolio : Analyzing loyalty programs in retail business units
 
 ## 1. Business Understanding
